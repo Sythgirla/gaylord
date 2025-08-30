@@ -1002,3 +1002,7 @@ metafile = true
 [[files]]
 file = "shaderpacks/Comp5.6d3EuphoriaPatches_1.7.0-dev11.zip"
 hash = "5d36a640e5663b8a70c831e6fd87bfdf6d6ce388a865a7c52d5124d46eba53bb"
+
+[[files]]
+file = "shaderpacks/Comp5.6d3EuphoriaPatches_1.7.0-dev11.zip.txt"
+hash = "21fac50125a67129c6acdf944fce55f83da482f88ae2cd13027f872217ff9133"
