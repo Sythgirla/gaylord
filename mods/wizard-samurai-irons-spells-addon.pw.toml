@@ -1,0 +1,13 @@
+name = "Wizard Samurai - Iron's Spells Addon x Samurai Dynasty"
+filename = "wizard_samurai-1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1a4a5bb5943b9d36b2551b4f5057d8b91da2773e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6463089
+project-id = 1157850

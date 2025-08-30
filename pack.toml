@@ -1,0 +1,13 @@
+name = "Gaylord"
+author = "Memelord"
+version = "Versionlord"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d9117aa4adbd7c8299d133589c43a761ddca45ebd14e7107ad23162dc9026f83"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.106"
