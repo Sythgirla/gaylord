@@ -134,7 +134,7 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "6d858df0f5a42aa5cb167b0c41cbb8290a304932f0480810495ad88420e92adf"
+hash = "ac417e7e82f5e6fa46de32fdefc6d01b786c39bf26cb4d7e0869ae9a6992f03e"
 metafile = true
 
 [[files]]
@@ -285,7 +285,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-structures-arise.pw.toml"
-hash = "099fd06bdd963c004570d8f81508b97e76881da90baaaf673fe14e2bb003d36c"
+hash = "aa918c978fa7ded1e6fb920d408c97e174c9341c0ebaf9a3f7437d396c10d161"
+metafile = true
+
+[[files]]
+file = "mods/create-structures.pw.toml"
+hash = "4f64bc81a381a3cb0c637829d547d8b0f5daa0ea29fe84a9e43a91784763745e"
 metafile = true
 
 [[files]]
@@ -409,6 +414,11 @@ hash = "44b9b79812f7b495daed814dd4403564708b66791fd205a8187e0c671da3e570"
 metafile = true
 
 [[files]]
+file = "mods/epic-samurais.pw.toml"
+hash = "b155c8feab7004c04cd3c9c734bd4a77733d2e5c4508c3d0620ed498a05ea4d2"
+metafile = true
+
+[[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "0ba2a01934d2de588071ac5a5281dd9a29fc46166fe6b9f99a809a70fe1a6668"
 metafile = true
@@ -510,7 +520,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexerei.pw.toml"
-hash = "79bfdf5bd4e7cc009b4ae84ab27b1f358bf2da1aa8f30102e77e1aae66aed688"
+hash = "6b75e21a40b8dcfe80a1d29ce4b8b3168b07f1329688de128f49bafb802d169b"
 metafile = true
 
 [[files]]
@@ -531,7 +541,7 @@ hash = "0e82eab004685e82d05e4a92f6d1689b8c94a31b8f2cf19f28343f58d7a274a7"
 
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "3089988dcd2d81d07d1619c37ead2d3a7212671cc6811373756b5e4eaf66d8fd"
+hash = "d8c354de7ab3aef949b8f8598ae57f07f1a38711d99588f27b93c1af93a14fba"
 metafile = true
 
 [[files]]
@@ -685,7 +695,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-overlays-updated.pw.toml"
-hash = "2e96ff6625fa5844c2969fd49918310c789aa9d4bfbcffc69c997ba83de41bd6"
+hash = "d523d495ab022346d3789c0bb0c24a5c78c1cbb661e48b6fc1c15f322a02ed74"
 metafile = true
 
 [[files]]
@@ -993,7 +1003,7 @@ metafile = true
 
 [[files]]
 file = "mods/wizard-samurai-irons-spells-addon.pw.toml"
-hash = "77ca634f585817ae8208978859d57eac15fef76539919736bec3962c0e68d358"
+hash = "b1a2f9c5cf11176d0b4d07ef2ebb74d56cf8ac535c2001b08258aadf94cc1219"
 metafile = true
 
 [[files]]
