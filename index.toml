@@ -9,26 +9,6 @@ file = "gitignore"
 hash = "eb49facfdd2488fd2fa583f1bce654899ce74b6c92621a42fc38facd62a9da31"
 
 [[files]]
-file = "mods/Controlling-forge-1.20.1-12.0.2.jar"
-hash = "cff8c3426a77f9e7412262b6d79e423979eff3831e010b3b1ea9677e1ecd74cd"
-
-[[files]]
-file = "mods/Create-DnDesire-1.20.1-0.1b.Release-Early-Dev.jar.disabled"
-hash = "c2e52676be3b3d1c04bb96cc0e6b966fb48342216fcd3658c79c43ae5537933d"
-
-[[files]]
-file = "mods/Searchables-forge-1.20.1-1.0.3.jar"
-hash = "461add180eb595004d3c9f5ac0ce337752e403077f96b38304800eadf01fb825"
-
-[[files]]
-file = "mods/SmartBrainLib-neoforge-1.20.1-1.15.jar"
-hash = "1de390bdaf2826a65f75506ae5ea751259825a102abd316dfab59456edeff1a8"
-
-[[files]]
-file = "mods/Structory_1.20.x_v1.3.5.jar"
-hash = "f13e9f54fa5b7cdf09c3110bda9b79f8f60bd5bb0476fc5626c5e590dd46e6e1"
-
-[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "920c34a04af6fc921bbf12df0e701ccb0e0faadb961fe66d84916cf1f9f24e80"
 metafile = true
@@ -114,10 +94,6 @@ hash = "4ae74554aeb63b9c955755fde32e8d0123b213c0dbd803fe9c5135be6fbe11c4"
 metafile = true
 
 [[files]]
-file = "mods/ars_creo-1.20.1-4.0.1.jar.disabled"
-hash = "3f88d5fab4052fe59651c02e20967f6ac69f95ef0281adcb2ad37e99feb45ea6"
-
-[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "af81664fa766bb0cb2f4a383f2464e38300c28ebefcb0b87a53c9bf22873eaca"
 metafile = true
@@ -163,10 +139,6 @@ hash = "058699e4832d0cf5396c5ea29244100f0c0e39a8d7aa5b64c2afdcc3cb8c8145"
 metafile = true
 
 [[files]]
-file = "mods/caelus-forge-3.2.0+1.20.1.jar"
-hash = "43cabe35f0618c0bd01af02e7568ca6f15fd32bb6a90d04c9898bb01e8dc1e81"
-
-[[files]]
 file = "mods/caelus.pw.toml"
 hash = "8a8ea0af79b88d9c192d208aa5be4bacd934e2b92d4721566e2e796eb9761e10"
 metafile = true
@@ -177,17 +149,9 @@ hash = "ba1bdad41e3c9ec131330f048fc6f9bcb753ca3e9bfa1e41d60d6ca11afbc2e6"
 metafile = true
 
 [[files]]
-file = "mods/cc-tweaked-1.20.1-forge-1.116.1.jar"
-hash = "fffa7eac48606dbc9f8e88ddf6c09ef218f0004b42f165f5476b700788806c9e"
-
-[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "33fbfba45630792a9223d4e20c9300bc9fef142c68781fc648c32b62313f3e16"
 metafile = true
-
-[[files]]
-file = "mods/cccbridge-mc1.20.1-v1.7.1-forge.jar.disabled"
-hash = "3a2deed262d2eec51123946c9fda83894434e0d4fc42ccb92a92bc10495eeea6"
 
 [[files]]
 file = "mods/chipped.pw.toml"
@@ -263,10 +227,6 @@ metafile = true
 file = "mods/create-confectionery.pw.toml"
 hash = "7f98e3461e1319ef01a91a8258aa2d932179d0406280d980b356ddbfbef52213"
 metafile = true
-
-[[files]]
-file = "mods/create-dyn-light-forge1.20.1+1.0.2.jar.disabled"
-hash = "0a5fc5dda40f54acf91d6772bdb40d82d0225549b34eba878814248dc596812f"
 
 [[files]]
 file = "mods/create-easy-structures.pw.toml"
@@ -524,22 +484,6 @@ hash = "6b75e21a40b8dcfe80a1d29ce4b8b3168b07f1329688de128f49bafb802d169b"
 metafile = true
 
 [[files]]
-file = "mods/ice_and_fire_delight-forge-1.20.1-0.2.4.jar.disabled"
-hash = "242eb19005eca0ecc0e832b8582327480c4e17067dfb21dd6d68650a390f30a1"
-
-[[files]]
-file = "mods/ice_and_fire_spellbooks-2.3.1-1.20.1.jar.disabled"
-hash = "5bbf33d80821c748f48854c9d79cd4bd7a93cd466ef45789d1d704dbaabae99c"
-
-[[files]]
-file = "mods/iceandfire-2.1.13-1.20.1-beta-5.jar.disabled"
-hash = "2b80245fc9b7d6fdc61d71f9892f4c6114eb7f303f65634845aaab25f84d1e82"
-
-[[files]]
-file = "mods/iceandfire_curios-1.2.0-forge-1.20.1.jar.disabled"
-hash = "0e82eab004685e82d05e4a92f6d1689b8c94a31b8f2cf19f28343f58d7a274a7"
-
-[[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
 hash = "d8c354de7ab3aef949b8f8598ae57f07f1a38711d99588f27b93c1af93a14fba"
 metafile = true
@@ -678,10 +622,6 @@ metafile = true
 file = "mods/mekanism.pw.toml"
 hash = "7c411a566d022680769ddb8323984fff292ddeb35e7d8fcfe2cc41b9885d9557"
 metafile = true
-
-[[files]]
-file = "mods/mekanismcurios-1.20.1-1.2.1.jar.disabled"
-hash = "b597995eb4cea127576fc1a7d9f9f8e98a89f50352f52cfd1ffaccb2699ee9fe"
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
@@ -959,10 +899,6 @@ hash = "03715aca6b5574c989aa05089b8cc415f829360e79c41a9420a0f6d6027e1b48"
 metafile = true
 
 [[files]]
-file = "mods/towntalk-1.20.1-1.1.0.jar.disabled"
-hash = "7ba6ab6ff1422b9175c3a7f232309db2c82d3ca3787547c79da7839cd78c262f"
-
-[[files]]
 file = "mods/trashslot.pw.toml"
 hash = "7d82589ef537c4a134ec1c5901019052c3fd3fd1a6051500ff3f732339e801e0"
 metafile = true
@@ -976,10 +912,6 @@ metafile = true
 file = "mods/valhelsia-core.pw.toml"
 hash = "d8d6daa50fdac46d3176520da691a94c6905465c164dd07458ac02338ae2f62f"
 metafile = true
-
-[[files]]
-file = "mods/vintageimprovements-1.20.1-0.2.0.3.jar.disabled"
-hash = "7f58e22948968343fe37e7af1fe060a67e28f90e9cf869d50e600489393fd5ae"
 
 [[files]]
 file = "mods/visual-workbench.pw.toml"
