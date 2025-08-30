@@ -225,16 +225,6 @@ hash = "7f98e3461e1319ef01a91a8258aa2d932179d0406280d980b356ddbfbef52213"
 metafile = true
 
 [[files]]
-file = "mods/create-dreams-desires.pw.toml"
-hash = "aa383802afb154b1cf46efff75fc581f73a81f45db28592f264a95c4fd6400a7"
-metafile = true
-
-[[files]]
-file = "mods/create-dreams-n-desires-updated-to-create-6.pw.toml"
-hash = "f25d33063b86fa31c49633ce8ff300bcdaf4a6cf96bcf91fe7e52e0bfd60f210"
-metafile = true
-
-[[files]]
 file = "mods/create-easy-structures.pw.toml"
 hash = "68069a63ebbff63d18a9e8242745ca342b1649e07944291e8e5e24ba74946b25"
 metafile = true
@@ -816,7 +806,7 @@ metafile = true
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
-hash = "dcc5d1ad53e7357e893c86a9eca35cc4d84a86fc4e30ea9e6241af7ce22debcd"
+hash = "f748a80e63ecda9865aeea8da1c0ca5e87e2b475a304cba07a683c9270858709"
 metafile = true
 
 [[files]]
