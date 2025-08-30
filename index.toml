@@ -1,12 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "gitattributes"
-hash = "f1c49afdbf5c184940b9d1b0dcb6e070c8ca915a36d6c2b7f5a4c641e1080aea"
-
-[[files]]
-file = "gitignore"
-hash = "eb49facfdd2488fd2fa583f1bce654899ce74b6c92621a42fc38facd62a9da31"
+file = "config/alexscaves-client.toml"
+hash = "db5c9fddb7816fae75ecdb86e604c97408eca8626d785b9380a0b39d68b8bd58"
 
 [[files]]
 file = "mods/accelerated-decay.pw.toml"
@@ -820,7 +816,7 @@ metafile = true
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
-hash = "f748a80e63ecda9865aeea8da1c0ca5e87e2b475a304cba07a683c9270858709"
+hash = "dcc5d1ad53e7357e893c86a9eca35cc4d84a86fc4e30ea9e6241af7ce22debcd"
 metafile = true
 
 [[files]]
@@ -1002,3 +998,7 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "557d160e4a3d856c6bbe36c39ee7c6cd42824363690b61d5f23bbac153c8edbc"
 metafile = true
+
+[[files]]
+file = "shaderpacks/Comp5.6d3EuphoriaPatches_1.7.0-dev11.zip"
+hash = "5d36a640e5663b8a70c831e6fd87bfdf6d6ce388a865a7c52d5124d46eba53bb"
